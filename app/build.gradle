@@ -8,7 +8,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "com.ygsoft.twsystem.twsystem"
+        applicationId "com.ygsoft.twsystem"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
